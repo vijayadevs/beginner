@@ -26,5 +26,5 @@ Once the code is compiled, you can deploy the contract by clicking on the "Deplo
 
 Once the contract is deployed, you can interact with it by calling the functions. Click on the "token" contract in the left-hand sidebar, and then click on the  functions respectively. Finally, click on the "transact" button to execute the function.
 ## Author
-Prakash
-@Hackprakas
+Vijaya
+@vijayadevs
